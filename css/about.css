@@ -1,0 +1,22 @@
+.about-content {
+  flex-direction: column;
+  text-align: center;
+  height: 100%;
+  margin-bottom: 40px;
+}
+.about-img img {
+  width: 268px;
+  height: 275px;
+  box-shadow: 0px 0px 10px black;
+  border-radius: 140px;
+  margin-top: 25px;
+  margin-bottom: 20px;
+}
+.abt-content {
+  border-bottom: 2px solid rgb(0, 88, 251);
+  border-top: 2px solid rgb(0, 88, 251);
+  padding: 13px;
+  font-size: 18px;
+  width: 30vw;
+  margin: auto;
+}

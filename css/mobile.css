@@ -1,0 +1,39 @@
+@media screen and (max-width: 1000px) {
+  .navigation {
+    flex-direction: column;
+    margin-top: 42px;
+    height: 20%;
+  }
+  .nav-left {
+    flex-direction: column;
+    text-align: center;
+  }
+  .content img {
+    display: none;
+  }
+  .content-left {
+    text-align: center;
+    height: 70%;
+    width: 100%;
+    max-width: 80vw;
+    margin: auto;
+  }
+  .home-article {
+    flex-direction: column;
+  }
+  .home-article-img {
+    text-align: center;
+  }
+  .home-article-content {
+    margin: 15px;
+  }
+  .form-input {
+    width: 50%;
+  }
+  .Contact-content {
+    height: 500px;
+  }
+  .blog-content{
+    height: 100%;
+  }
+}
